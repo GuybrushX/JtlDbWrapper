@@ -1,5 +1,5 @@
 # JtlDbWrapper
-JTL DB Wrapper Scripts<br/>
+JTL DB Wrapper Skripte für JTL Wawi von der JTL-Software-GmbH<br/>
 <br/>
 #**************** DISCLAIMER ****************
 
