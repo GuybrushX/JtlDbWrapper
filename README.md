@@ -1,6 +1,14 @@
 # JtlDbWrapper
 JTL DB Wrapper Skripte für JTL Wawi von der JTL-Software-GmbH<br/>
 <br/>
+#ACHTUNG - Zitat JTL Entwickler:</br>
+Wenn ihr direkt über die Datenbank oder über so ein Tool wie das von GuyBrush Daten ändert, verliert ihr damit jeglichen Support von uns. Es kam oft genug vor, dass bei Kunden Probleme auftraten, weil die Kunden selbst auf der Datenbank rumgespielt haben. Die rauszufinden ist immer sehr zeitaufwendig. Seid bitte vorsichtig mit solchen Tools. Wenn ich bei einer Teamviewer-Sitzung sehe das ein Kunde selbst an der Datenbank manipuliert, kann es gut sein, dass ich den Supporet abbreche und lieber den Kunden helfe die Probleme haben die evtl. nicht selbst verschuldet sind.</br>
+</br>
+Quelle: http://forum.jtl-software.de/showthread.php?t=89504&p=515181&viewfull=1#post515181</br>
+</br>
+Auch kann es theoretisch jederzeit sein, dass JTL diese Möglichkeit unterbindet - halte ich allerdings für sehr unrealistisch, weil die DLL ja von JTL selbst so verwendet wird und das ein immenser Aufwand wäre. Bedeutet aber: falls JTL doch etwas an der DLL ändern sollte, funktionieren ggf. Skripte nicht mehr, die darauf aufbauen und man muss wieder Alternativen suchen und verwenden (SQL Queries etc.) - logisch.</br>
+</br>
+Also wirklich aufpassen!
 #**************** DISCLAIMER ****************
 
 Vorweg:
